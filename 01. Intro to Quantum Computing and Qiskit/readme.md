@@ -39,7 +39,7 @@ Derivatives, integrals (for optimization in variational algorithms)
 
 
 ## Quantum Advantages:
-- Exponential state space: ( n ) qubits represent ( 2^n ) states
+- Exponential state space: ( $n$ ) qubits represent ( $2^n$ ) states
 - Speedups: Polynomial or quadratic for specific problems
 - Applications in Data Science/AI: Quantum ML for high-dimensional data, optimization for logistics/neural nets
 
@@ -75,8 +75,8 @@ Practical quantum AI expected in 5-10 years (as of 2025)
 
 
 ## Linear Algebra View:
-- State as vector: Bit 0 = 
-$$ \begin{pmatrix} 1 \ 0 \end{pmatrix} $$
+- State as vector:
+Bit 0=$\begin{matrix}1\0\end{matrix}$
 - Gates as matrices: NOT = $ \begin{pmatrix} 0 & 1 \ 1 & 0 \end{pmatrix} $
 
 
