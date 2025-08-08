@@ -1,4 +1,4 @@
-$\textbf{Quantum Noise & Transpilation}$
+$\textbf{Quantum Noise and Transpilation}$
 # Session Overview
 ## Objective: 
 Understand quantum noise, its impact on computation, and circuit optimization via transpilation
