@@ -1,4 +1,4 @@
-$\huge{\textbf{Phase Estimation & Factoring}}$
+$\huge{\textbf{Phase Estimation and Factoring}}$
 # Slide 1: Session Overview
 ## Objective: 
 Understand quantum phase estimation (QPE) and its role in Shor’s factoring algorithm
